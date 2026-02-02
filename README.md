@@ -57,7 +57,7 @@ Sales ↔ Customers → Customer_ID
 
 These relationships enable multi-dimensional analysis in Tableau.
 
-📊 KEY VISUALIZation IN TABLEAU
+📊 KEY VISUALIZATION IN TABLEAU
 
 Total Sales by Region
 
